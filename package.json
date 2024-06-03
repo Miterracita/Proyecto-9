@@ -1,0 +1,16 @@
+{
+  "name": "proyecto-9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^22.10.0"
+  }
+}
